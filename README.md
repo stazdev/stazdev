@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer from Nigeria, I'm a Frontend Developer. I love bringing out ideas to live with my coding skills. I use Javascript, React and React Native to implement high end functionalities and user experience, My greatest strength is my ability to adapt and learn
+I am a frontend developer from Nigeria, I love bringing out ideas to live with my coding skills. I use Javascript, React and React Native to implement high end functionalities and user experience, My greatest strength is my ability to adapt and learn
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [oluwasholatemitayo@gmail.com](mailto:oluwasholatemitayo@gmail.com)
