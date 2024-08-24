@@ -9,7 +9,6 @@ I am a passionate frontend developer who loves bringing ideas to life with code.
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [oluwasholatemitayo@gmail.com](mailto:oluwasholatemitayo@gmail.com)
 *   🧑‍💻 Current Focus: Professional development in React Native and TypeScript
-*   🤝  I'm open to collaborating on Interesting projects
 *   🤝 Open to: Collaborating on innovative and impactful projects
 *   ⚡ Fun Fact: I'm deeply passionate about coding and continuously exploring new technologies to enhance user experiences.
 
