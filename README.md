@@ -4,7 +4,7 @@
 
 I'm a developer from Nigeria passionate about creating seamless digital experiences. I turn designs into functional, high-performance web and mobile applications.
 
-- 🔭 **I’m currently working on:** [Name of your latest project]
+- 🔭 **I’m currently working on:** 
 - 🌱 **I’m currently learning:** TypeScript & Next.js
 - 👯 **I’m looking to collaborate on:** Open source React Native projects
 - 💬 **Ask me about:** React, JavaScript, CSS Animations, and UI/UX implementation
