@@ -8,7 +8,7 @@ I'm a developer from Nigeria passionate about creating seamless digital experien
 - 🌱 **I’m currently learning:** TypeScript & Next.js
 - 👯 **I’m looking to collaborate on:** Open source React Native projects
 - 💬 **Ask me about:** React, JavaScript, CSS Animations, and UI/UX implementation
-- 📫 **How to reach me:** [YourEmail@example.com] | [Link to your Portfolio]
+- 📫 **How to reach me:** [Oluwasholatemitayo@gmail.com]
 
 ---
 
