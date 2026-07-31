@@ -94,8 +94,14 @@ My core expertise lies in architecting fintech ecosystems, dashboards, e-commerc
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stazdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stazdev github stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=stazdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stazdev github stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stazdev&theme=tokyonight&hide_border=true" alt="stazdev streak stats" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=stazdev&layout=compact&theme=tokyonight&hide_border=true" alt="stazdev top languages" width="60%" />
 </div>
 
 <br />
