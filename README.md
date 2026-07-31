@@ -85,7 +85,7 @@ My core expertise lies in architecting fintech ecosystems, dashboards, e-commerc
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=stazdev&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="stazdev trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=stazdev&theme=tokyonight&margin-w=15&column=7&no-frame=true&v=1" alt="stazdev trophies" />
   </a>
 </div>
 
@@ -102,12 +102,6 @@ My core expertise lies in architecting fintech ecosystems, dashboards, e-commerc
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=stazdev&layout=compact&theme=tokyonight&hide_border=true" alt="stazdev top languages" width="60%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stazdev&layout=compact&theme=tokyonight&hide_border=true" alt="stazdev top languages" width="60%" />
 </div>
 
 ---
